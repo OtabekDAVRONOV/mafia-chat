@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "608511641010",
+    "project_id": "mafia-chat-e2e71",
+    "storage_bucket": "mafia-chat-e2e71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608511641010:android:33c516207e7b632ad150ab",
+        "android_client_info": {
+          "package_name": "com.example.mafia_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608511641010-bl9k64dfgms9prqearfko175cdcjms6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mafia_chat",
+            "certificate_hash": "6f565da41c7b3f68660e436dae84880fc1f3aa8f"
+          }
+        },
+        {
+          "client_id": "608511641010-m1itis9kg58275784cj86kkbd80cqget.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgEpih12ECw-yf-LaREzMIJXOaYftP-qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608511641010-m1itis9kg58275784cj86kkbd80cqget.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
